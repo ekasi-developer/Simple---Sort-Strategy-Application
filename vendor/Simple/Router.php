@@ -12,7 +12,7 @@ class Router implements RouterInterface
      *
      * @var array $router
      */
-    public static array $routes = [];
+    protected static array $routes = [];
 
     /**
      * Application bass directory.
