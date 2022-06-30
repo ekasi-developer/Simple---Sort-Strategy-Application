@@ -10,6 +10,8 @@
 Simple framework is a light MVC framework similar to laravel.
 ## Getting Started
 
+Required php ^8
+<br>
 Getting started with simple framework is as easy running as create.
 
 ## Running Application
