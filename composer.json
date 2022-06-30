@@ -1,4 +1,7 @@
 {
+    "name": "Simple - Sort Strategy Application",
+    "description": "Sorting application using simple framework.",
+    "license": "MIT",
     "autoload": {
         "classmap": [
             "Application",
