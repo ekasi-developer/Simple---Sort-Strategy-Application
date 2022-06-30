@@ -1,0 +1,377 @@
+{
+	"header": {
+		"enquiries": "Enquiries? Call: "
+	},
+
+	"navbar": {
+		"home": "Home",
+
+		"about-us": "About Us",
+		"about-us.title": "About Kreston Mozambique",
+		"about-us.who-we-are": "Who We Are",
+		"about-us.where-we-are": "Where We Are",
+		"about-us.how-we-work": "How We Work",
+		"about-us.what-we-do": "What We Do",
+		"about-us.our-values": "Our Values",
+
+		"services": "Services",
+		"services.title": "KRESTON MOZAMBIQUE SERVICES",
+		"services.accounting-services": "Accounting Services",
+		"services.auditing-and-assurance": "Auditing and Assurance",
+		"services.corporate-and-personal-taxation": "Corporate and Personal Taxation",
+		"services.corporate-finance": "Corporate Finance",
+		"services.restructuring-and-insolvency": "Restructuring and Insolvency",
+		"services.risk-management": "Risk Management",
+		"services.other-consulting-services": "Other Consulting Services",
+
+		"sectors": "Sectors",
+		"sectors.title": "KRESTON MOZAMBIQUE SECTORS",
+		"sectors.retail": "Retail",
+		"sectors.manufacturing": "Manufacturing",
+		"sectors.manufacturing-automotive": "Manufacturing & Automotive",
+		"sectors.testimonial": "Testimonial",
+		"sectors.life-science-technology": "Life Science & Technology",
+		"sectors.travel-hospitality-and-leisure": "Travel, Hospitality and Leisure",
+		"sectors.professional-services": "Professional Services",
+		"sectors.real-estate-and-construction": "Real Estate and Construction",
+		"sectors.charity-not-for-profit-and-education": "Charity, Not For Profit and Education",
+		"sectors.medical-and-healthcare": "Medical and Healthcare",
+		"sectors.public-sector": "Public Sector",
+		"sectors.sports": "Sports",
+		"sectors.agriculture": "Agriculture",
+		"sectors.energy-and-resources": "Energy and Resources",
+
+		"global-presence": "Global Presence",
+
+		"careers": "Careers",
+
+		"contact-us": "Contact Us"
+	},
+
+	"home-slider": {
+		"item.1.title": "Client Is The King",
+		"item.1.subtitle": "WE MEAN EVERY WORD OF IT",
+
+		"item.2.title": "Kreston Mozambique",
+		"item.2.subtitle": "Knowing You",
+		"item.2.about-us": "About Us",
+		"item.2.services": "Services"
+	},
+
+	"home-action": {
+		"title": "<span class=\"fw-thin\">Kreston <span class=\"fw-semibold\">Mozambique</span>",
+		"text": "Kreston International is a global network of independent accounting firms. As trusted, long-term counsellors, we combine expertise with empathy to help you achieve your professional and personal goals.",
+		"about-us": "About Us",
+		"services": "Services"
+	},
+
+	"home-services": {
+		"title": "Accounting Services",
+
+		"accounting-services.title": "Accounting Services",
+		"accounting-services.text": "Kreston provides all the accounting and outsourcing services that are essential for a growing business - both at home and abroad. The trusted relationship between member firms means we can pull together to overcome barriers to international growth. Our accounting services include:",
+		"accounting-services.li.1": "Preparation of financial statements in compliance with International Financial Reporting Standards (IFRS), US GAAP or local GAAP",
+		"accounting-services.li.2": "Budgeting and business planning",
+		"accounting-services.li.3": "Management accounting",
+		"accounting-services.li.4": "Outsourced book-keeping and payroll",
+		"accounting-services.li.5": "Outsourced company secretarial services, including company formation",
+
+		"auditing-assurance.title": "Auditing & Assurance",
+		"auditing-assurance.text": "Kreston offers partner-led audit and assurance services. During an audit, we aim to gain a real understanding of your business and the quality and effectiveness of your accounting and control systems",
+		"auditing-assurance.li.1": "This means we can focus on the risks of material misstatements in the financial statements such as:",
+		"auditing-assurance.li.2": "Limited reviews",
+		"auditing-assurance.li.3": "Agreed-upon procedures",
+		"auditing-assurance.li.4": "Assurance on non-financial information, including sustainability reports.",
+		
+		"corporate-and-personal-taxation.title": "Corporate and Personal Taxation",
+		"corporate-and-personal-taxation.text": "By drawing on our network of trusted counterparts, Kreston gives you access to tax expertise from around the world. We specialise in the full range of cross-border issues, including",
+		"corporate-and-personal-taxation.li.1": "International tax structures for subsidiary operations, funding and dividend repatriation",
+		"corporate-and-personal-taxation.li.2": "Indirect taxes and customs duties",
+		"corporate-and-personal-taxation.li.3": "Transfer pricing",
+		"corporate-and-personal-taxation.li.4": "Expatriate employee advice",
+		"corporate-and-personal-taxation.li.5": "Asset protection, family wealth and trust planning",
+		
+		"corporate-finance.title": "Corporate Finance",
+		"corporate-finance.text": "The complexities of international acquisitions, disposals and flotations demand specialist advice from experienced professionals accustomed to local requirements. Our global reach means our members can help you to manage and expand your international operations. Kreston offers:",
+		"corporate-finance.li.1": "Fundraising support - both equity and debt",
+		"corporate-finance.li.2": "Corporate valuation",
+		"corporate-finance.li.3": "Initial public offerings",
+		"corporate-finance.li.4": "Lead advisory services for mergers and disposals",
+		"corporate-finance.li.5": "Structuring for international partnerships and joint ventures",
+		"corporate-finance.li.6": "Due diligence services - acquisition or vendor",
+		
+		"restructuring-and-insolvency.title": "Restructuring and Insolvency",
+		"restructuring-and-insolvency.text": "Cross-border restructuring, administration, bankruptcy and liquidation demand decisive action. Solutions generally need to encompass multiple business entities, subject to widely differing formal procedures across several jurisdictions. Kreston offers specialist support from experts across the globe in:",
+		"restructuring-and-insolvency.li.1": "Advising on business structures and performance improvement",
+		"restructuring-and-insolvency.li.2": "Rescuing, restructuring or realising illiquid or insolvent businesses",
+		"restructuring-and-insolvency.li.3": "Establishing and operating creditor moratoriums",
+		"restructuring-and-insolvency.li.4": "Optimising returns for stakeholders",
+		"restructuring-and-insolvency.li.5": "Investigating business failures and challenging antecedent transactions",
+		
+		"risk-management.title": "Risk Management",
+		"risk-management.text": "By truly getting to know your people and your business, Kreston provides ongoing assurance that potential risks to your business strategy have been appropriately assessed and managed. This includes:",
+		"risk-management.li.1": "Systems and internal control reviews",
+		"risk-management.li.2": "International tax structures for subsidiary operations, funding and dividend repatriation",
+		"risk-management.li.3": "Indirect taxes and customs duties",
+		"risk-management.li.4": "Transfer pricing",
+		"risk-management.li.5": "Expatriate employee advice",
+		"risk-management.li.6": "Asset protection, family wealth and trust planning"
+	},
+
+	"home-video": {
+		"title": "Learn More About Us Here"
+	},
+
+	"about-us": {
+		"title": "About Us",
+
+		"who-we-are.title": "Who We Are",
+		"who-we-are.text": "Kreston Mozambique (formerly Grant Thornton Mozambique) is a member firm of <a href=\"https://www.kreston.com/\" target=\"_blank\"><b><u> Kreston International</u></b></a>. The Mozambican firm has been operating since 1995 and evolved from a traditional audit, accounting and tax practice to offer a broad range of specialist advisory services to privately held business, public interest entities and the public sector. The firm is a registered auditor with OCAM - audit and accounting regulator in Mozambique. Our license with OCAM is No 05/SAC/OCAM/2014 has been transferred from Grant Thornton Mozambique to Kreston Mozambique on 20th March 2020.",
+
+		"where-we-are.title": "Where We Are",
+		"where-we-are.text.1": "Our office is located in Maputo where we service clients from all around Mozambique including Angola.",
+		"where-we-are.text.2": "Being a member of the Kreston International network allows us to offer our clients access to knowledge and skills of our trusted counterparts in 110 countries, to establish and grow their business.",
+		"where-we-are.text.3": "Through our membership with Kreston International, we are also affiliated with the Forum of Firms, an independent association of international networks of firms that promotes consistent and high-quality standards of financial reporting and auditing practices worldwide.",
+
+		"how-we-work.title": "How We Work",
+		"how-we-work.text.1": "Kreston works with you at all stages of the business lifecycle, whether it be building or managing portfolios, assessing risks, developing exit strategies, realizing value, planning to expand or restructuring.",
+		"how-we-work.text.2": "In public sector Kreston teams have a world class reputation in developing infrastructure investments strategies, governance and transparency controls and for improving operational systems.",
+
+		"what-we-do.title": "What We Do",
+		"what-we-do.text": "",
+		"what-we-do.subtitle": "We Provice A Range of The Following Services:<br/>Click On Service Below To Read More",
+		"what-we-do.li.1": "Accounting & Secretarial Services",
+		"what-we-do.li.2": "Audit and Assurance",
+		"what-we-do.li.3": "Corporate and Personal Taxation",
+		"what-we-do.li.4": "Corporate Finance",
+		"what-we-do.li.5": "Restructuring and Insolvency",
+		"what-we-do.li.6": "Risk Management",
+		
+		"our-values.trust.title": "Trust",
+		"our-values.trust.text": "Our clients know we`ve got their backs, no matter what - that`s why they trust us to help them achieve their business and life goals. And within the network, we trust one another to treat any referred matter as a priority",
+		"our-values.responsiveness.title": "Responsivenes",
+		"our-values.responsiveness.text": "Business never stands still - so we don`t either. Our creative and dynamic approach means we`re always on hand with the fresh thinking and personalised advice our clients need - often before they even know it.",
+		"our-values.quality.title": "Quality",
+		"our-values.quality.text": "We offer the very best advice because we recruit the most talented, innovative professionals - and share their knowledge throughout our network. Our monitoring and inspection system ensures that we hold ourselves to the highest international standards of quality, ethics and working practices.",
+		"our-values.integrity.title": "Intergrity",
+		"our-values.integrity.text": "We`re proud that the work we do helps secure long-term business sustainability and the comfort and security of future generations, and we approach every engagement with that in mind",
+		"our-values.collaboration.title": "Collaboration",
+		"our-values.collaboration.text": "As individuals, we work side by side with clients to understand their ambitions and tackle their challenges. As a network, we`ve got the connections to bring the right knowledge to the table, whatever the challenge"
+	},
+
+	"services": {
+		"title": "Kreston. Knowing you",
+
+		"accounting-services.title": "Accounting Services",
+		"accounting-services.text": "Kreston provides all the accounting and outsourcing services that are essential for a growing business - both at home and abroad. The trusted relationship between member firms means we can pull together to overcome barriers to international growth.<br><br>Our accounting services include:",
+		"accounting-services.li.1": "Preparation of financial statements in compliance with International Financial Reporting Standards (IFRS), US GAAP or local GAAP",
+		"accounting-services.li.2": "Budgeting and business planning",
+		"accounting-services.li.3": "Management accounting",
+		"accounting-services.li.4": "Outsourced book-keeping and payroll",
+		"accounting-services.li.5": "Outsourced company secretarial services, including company formation",
+
+		"auditing-and-assurance.title": "Auditing and Assurance",
+		"auditing-and-assurance.text.1": "Kreston offers partner-led audit and assurance services. During an audit, we aim to gain a real understanding of your business and the quality and effectiveness of your accounting and control systemsThis means  This means we can focus on the risks of material misstatements in the financial statements such as.<br><br>In addition to an audit, a range of other assurance services can be tailored to your needs. These include:",
+		"auditing-and-assurance.li.1": "Limited reviews",
+		"auditing-and-assurance.li.2": "Agreed-upon procedures",
+		"auditing-and-assurance.li.3": "Assurance on non-financial information, including sustainability reports",
+		"auditing-and-assurance.text.2": "Kreston International is a member of the Forum of Firms, a group of the largest accounting networks in the world, including the “Big Four”. We carry out transnational audits in accordance with International Auditing Standards and in compliance with the code of ethics issued by IESBA.",
+
+		"corporate-and-personal-taxation.title": "Corporate and Personal Taxation",
+		"corporate-and-personal-taxation.text": "Kreston can give you access to tax expertise from around the world. Our members specialise in the full range of cross-border issues, including:",
+		"corporate-and-personal-taxation.li.1": "International tax structures for subsidiary operations, funding and dividend repatriation",
+		"corporate-and-personal-taxation.li.2": "Indirect taxes and customs duties",
+		"corporate-and-personal-taxation.li.3": "Transfer pricing",
+		"corporate-and-personal-taxation.li.4": "Expatriate employee advice",
+		"corporate-and-personal-taxation.li.5": "Asset protection, family wealth and trust planning",
+
+		"corporate-finance.title": "Corporate Finance",
+		"corporate-finance.text": "The complexities of international acquisitions, disposals and flotations demand specialist advice from experienced professionals accustomed to local requirements. Our global reach means our members can help you to manage and expand your international operations. Kreston offers:",
+		"corporate-finance.li.1": "Fundraising support - both equity and debt",
+		"corporate-finance.li.2": "Corporate valuation",
+		"corporate-finance.li.3": "Initial public offerings",
+		"corporate-finance.li.4": "Lead advisory services for mergers and disposals",
+		"corporate-finance.li.5": "Structuring for international partnerships and joint ventures",
+		"corporate-finance.li.6": "Due diligence services - acquisition or vendor",
+
+		"restructuring-and-insolvency.title": "Restructuring and Insolvency",
+		"restructuring-and-insolvency.text": "Cross-border restructuring, administration, bankruptcy and liquidation demand decisive action. Solutions generally need to encompass multiple business entities, subject to widely differing formal procedures across several jurisdictions. Kreston offers specialist support from experts across the globe in:",
+		"restructuring-and-insolvency.li.1": "Conducting independent business reviews",
+		"restructuring-and-insolvency.li.2": "Advising on business structures and performance improvement",
+		"restructuring-and-insolvency.li.3": "Rescuing, restructuring or realising illiquid or insolvent businesses",
+		"restructuring-and-insolvency.li.4": "Establishing and operating creditor moratoriums",
+		"restructuring-and-insolvency.li.5": "Recovering, rescheduling and converting debt",
+		"restructuring-and-insolvency.li.6": "Optimising returns for stakeholders",
+		"restructuring-and-insolvency.li.7": "Investigating business failures and challenging antecedent transactions",
+
+		"risk-management.title": "Risk Management",
+		"risk-management.text": "Kreston provides ongoing assurance that potential risks to your business strategy have been appropriately assessed and managed. This includes:",
+		"risk-management.li.1": "Systems and internal control reviews",
+		"risk-management.li.2": "Internal audit and Sarbanes-Oxley Act (SOX) compliance services",
+		"risk-management.li.3": "Fraud prevention review and investigations",
+		"risk-management.li.4": "Forensic accounting and litigation support",
+		"risk-management.li.5": "Dispute resolution services",
+		"risk-management.li.6": "Disaster recovery planning",
+
+		"other-consulting-services.title": "Other Consulting Services",
+		"other-consulting-services.text.1": "Kreston provides a range of advisory services big enough to match your ambitions, be they local or global. These include:",
+		"other-consulting-services.li.1": "Strategic planning",
+		"other-consulting-services.li.2": "Profit enhancement",
+		"other-consulting-services.li.3": "Employee benefits",
+		"other-consulting-services.li.4": "Financial services and insurance",
+		"other-consulting-services.li.5": "IT systems - consulting and software selection",
+		"other-consulting-services.text.2": "Please get in touch for a confidential conversation without obligation. We will be pleased to find out more about you and your business and explain how our members can support you, both locally and internationally."
+	},
+
+	"sectors": {
+		"title": "Sectors",
+		"subtitle": "Click Box To Read More",
+
+		"retail.title": "Knowing Retail",
+		"retail.description": "Kreston understands retail. And we know the stakes are high. A slick online and mobile experience is no longer optional - it`s a deal breaker for customers and there is increasing pressure to trade internationally, to grow your business and combat rising costs and competition.",
+		"retail.text": "Kreston understands retail. And we know the stakes are high. A slick online and mobile experience is no longer optional - it`s a deal breaker for customers and there is increasing pressure to trade internationally, to grow your business and combat rising costs and competition. The trusted relationships between Kreston firms around the globe mean we can provide a seamless service whatever you`re facing and wherever you need us.",
+		"retail.subtitle": "As advisors specialising in owner-managed businesses with international requirements, Kreston can help with:",
+		"retail.li.1": "Financial record-keeping to satisfy the rigorous demands of tax regulations",
+		"retail.li.2": "Audit and assurance services",
+		"retail.li.3": "Management information systems and the effective use of operating data",
+		"retail.li.4": "Business trends and industry developments",
+		"retail.li.5": "Business structuring and financing",
+
+		"manufacturing.title": "Knowing Manufacturing",
+		"manufacturing.description": "Manufacturing has long been a local and international endeavour, with smart businesses leveraging the cost advantages of manufacturing in the emerging economies of Africa, South East Asia, India, Brazil and Central and Eastern Europe.",
+		"manufacturing.text": "Kreston understands retail. And we Manufacturing has long been a local and international endeavour, with smart businesses leveraging the cost advantages of manufacturing in the emerging economies of Africa, South East Asia, India, Brazil and Central and Eastern Europe. Kreston has a strong presence across these regions and beyond, meaning we provide all the services you need to operate in local and international markets.",
+		"manufacturing.subtitle": "Kreston advises small, medium and multinational manufacturers on:",
+		"manufacturing.li.1": "Company formation",
+		"manufacturing.li.2": "Audit and assurance services",
+		"manufacturing.li.3": "Funding for growth",
+		"manufacturing.li.4": "Capital investment in equipment",
+		"manufacturing.li.5": "Entry into new markets",
+		"manufacturing.li.6": "Mergers and acquisitions",
+		"manufacturing.li.7": "Investment decisions",
+		"manufacturing.li.8": "Budgeting and forecasting",
+		"manufacturing.li.9": "International tax",
+		"manufacturing.li.10": "Employment",
+		"manufacturing.li.11": "Audit and assurance engagements",
+
+		"manufacturing-automotive.title": "Knowing Manufacturing & Automotive",
+		"manufacturing-automotive.description": "Kreston provides all the accounting and outsourcing services that are essential for a growing business - both at home and abroad. The trusted relationship between member firms means we can pull together to overcome barriers to international growth. Our accounting services include:",
+		"manufacturing-automotive.title.1": "LonAgro, Mozambique",
+		"manufacturing-automotive.text": "The Lonrho Machinery Group specialises in selling capital investment goods and after markets services in eight countries through the LonAgro brand. LonAgro are the official dealer and service agents for several international machinery brands in; Angola, Burundi, Malawi, Mozambique, Rwanda, South Sudan and Tanzania, together with a joint venture in Ethiopia. <br/><br> Our key brands are John Deere and BELL and our focus is on providing world class machinery and after market support to the agriculture, construction, forestry and mining sectors. <br><br> LonAgro Mozambique wanted to increase its share capital and instructed Kreston Mozambique to assist them on this. Led by Dev Pydannah, Kreston Mozambique set up close monitoring with the relevant authorities for the registration of share capital increase which was achieved successfully.",
+
+		"testimonial.title": "Testimonial",
+		"testimonial.description": "Kreston Mozambique is auditor for LonAgro Mozambique and LonAgro Angola, as well as being auditors for Lonrho`s IT solutions subsidiary Bytes & Pieces Lda. We also advise them on income tax assessment and general tax matters.",
+		"testimonial.title.1": "Testimonial",
+		"testimonial.text": "Kreston Mozambique is auditor for LonAgro Mozambique and LonAgro Angola, as well as being auditors for Lonrho`s IT solutions subsidiary Bytes & Pieces Lda. We also advise them on income tax assessment and general tax matters.",
+		"testimonial.text.1": "<strong>Edmundo Chau Finance Manager of LonAgro Mozambique, said:</strong> “Kreston have been our advisors for 4 years now and we couldn`t be happier and more confident about our decisions on legal, tax and accounting matters. Their expertise and experience have been invaluable to our growth in the last years and give us peace of mind that we continue making the best decisions for our business.”",
+		"testimonial.text.2": "<strong>Dev Pydannah at Kreston Mozambique commented:</strong>  “We have a strong relationship with Lonrho and were ideally placed to help them on this matter. This successful outcome demonstrates the strength and reach of the Kreston Global network, and we look forward to helping them further in the future.”",
+
+		"life-science-technology.title": "Knowing Life Science & Technology",
+		"life-science-technology.description": "The technology and life sciences sector moves at a breathless pace. Security and disaster recovery are essential. Businesses demand increasingly specialist and tailored applications and new technologies continue to provide opportunities and threats.",
+		"life-science-technology.text": "The technology and life sciences sector moves at a breathless pace. Security and disaster recovery are essential. Businesses demand increasingly specialist and tailored applications and new technologies continue to provide opportunities and threats. <br><br> Kreston provides a complete spectrum of business, financial and risk-management services to clients in many industry segments, including software, hardware, media and communications, internet services, clean technology, biotechnology, medical devices, life sciences and pharmaceuticals.",
+		"life-science-technology.subtitle": "With its in-depth knowledge of the industry, Kreston can help with:",
+		"life-science-technology.li.1": "Business consulting and planning",
+		"life-science-technology.li.2": "The safeguarding of intellectual property",
+		"life-science-technology.li.3": "Corporation tax compliance and the preparation of tax returns",
+		"life-science-technology.li.4": "Advice on corporation tax",
+		"life-science-technology.li.5": "Advice on transfer pricing issues for multinational companies",
+		"life-science-technology.li.6": "R&D tax credit advice",
+		"life-science-technology.li.7": "Accounting services, including bookkeeping, the preparation of management accounts and cash flow.",
+
+		"travel-hospitality-and-leisure.title": "Knowing Travel, Hospitality and Leisure",
+		"travel-hospitality-and-leisure.description": "With customer demands to keep you constantly on your toes, firms in the travel, hospitality and leisure industries must be totally focused on business at all times. And increasing competition means you must be able to adapt quickly to stand out from the crowd - wherever you`re based.",
+		"travel-hospitality-and-leisure.text": "With customer demands to keep you constantly on your toes, firms in the travel, hospitality and leisure industries must be totally focused on business at all times. And increasing competition means you must be able to adapt quickly to stand out from the crowd - wherever you`re based. <br><br> With our market expertise and global reach, we can help you to do just that.",
+		"travel-hospitality-and-leisure.subtitle": "From tiny restaurants to large hotel chains and global travel companies, Kreston provides business strategy advice on:",
+		"travel-hospitality-and-leisure.li.1": "Cash flow",
+		"travel-hospitality-and-leisure.li.2": "Forecasts and budgets",
+		"travel-hospitality-and-leisure.li.3": "Accounting and tax",
+		"travel-hospitality-and-leisure.li.4": "Growth and exit plans",
+		"travel-hospitality-and-leisure.li.5": "Obtaining finance",
+		"travel-hospitality-and-leisure.li.6": "Overseeing business acquisitions",
+		"travel-hospitality-and-leisure.li.7": "Sales transactions.",
+
+		"professional-services.title": "Knowing Professional Services",
+		"professional-services.description": "Kreston has a long history of working with professional services providers, including engineering firms, architects, real estate businesses, legal firms, consultants, design specialists, medical practitioners and veterinarians. So our accounting and tax experts are perfectly positioned to help your business thrive.",
+		"professional-services.text": "Kreston has a long history of working with professional services providers, including engineering firms, architects, real estate businesses, legal firms, consultants, design specialists, medical practitioners and veterinarians. So our accounting and tax experts are perfectly positioned to help your business thrive. <br><br> As business owners in our own firms, we know what it takes to run successful, profitable firms. We understand the challenges facing their clients - because we`ve lived them. <br><br> We advise on current practice management issues, including strategy and tax planning in relation to partnerships, LLPs, Branch and individuals. We also offer forensic accounting and VAT, inheritance and capital gains tax advice.",
+
+		"real-estate-and-construction.title": "Knowing Real Estate & Construction",
+		"real-estate-and-construction.description": "In real estate and construction, the stakes are always high. Global and local economies can begin and end a business at a stroke, operating successfully means dealing with rising costs, competition, changing regulations and labour issues on a daily basis. Kreston can help you overcome these obstacles.",
+		"real-estate-and-construction.text": "In real estate and construction, the stakes are always high. Global and local economies can begin and end a business at a stroke, operating successfully means dealing with rising costs, competition, changing regulations and labour issues on a daily basis. Kreston can help you overcome these obstacles <br><br> We work with small speciality contractors, large heavy commercial and industrial construction companies, estate agents, property developers and architectural and engineering firms. <br><br> Whether you are looking for accounting, tax, assurance, compliance, outsourced business or consulting services, our intricate knowledge of the industry and international reach means we can support you at every step.",
+
+		"charity-not-for-profit-and-education.title": "Kreston has a strong tradition of providing outstanding, high-quality services to charity, not-for-profit and education providers.",
+		"charity-not-for-profit-and-education.description": "By truly getting to know your people and your business, Kreston provides ongoing assurance that potential risks to your business strategy have been appropriately assessed and managed. This includes:",
+		"charity-not-for-profit-and-education.title.1": "Knowing Charity, Not for Profit and Education",
+		"charity-not-for-profit-and-education.text": "Kreston has a strong tradition of providing outstanding, high-quality services to charity, not-for-profit and education providers. <br><br> We know that the ever-changing regulatory environment demands proactive accountants who can provide specialist advice tailored to the organisation`s specific requirements - and in doing so, help them succeed in an extremely competitive marketplace. <br><br> We also offer advice on strategic planning, controlling risk and fundraising and investment policies.",
+
+		"medical-and-healthcare.title": "Knowing Medical and Healthcare",
+		"medical-and-healthcare.description": "Kreston has a long history of working with professional services providers, including engineering firms, architects, real estate businesses, legal firms, consultants, design specialists, medical practitioners and veterinarians. So our accounting and tax experts are perfectly positioned to help your business thrive.",
+		"medical-and-healthcare.text": "Kreston has years of experience working with medical and healthcare providers and we understand that every business is unique. We know you operate in an increasingly regulated and competitive market, so our services are designed to fit your specific business needs. <br><br> Many Kreston firms are home to healthcare management consultants. This, along with our in-depth understanding of the market, has helped us to build long-lasting relationships with clients.",
+		"medical-and-healthcare.subtitle": "Our assurance and advisory services include:",
+		"medical-and-healthcare.li.1": "Financial record-keeping to satisfy the rigorous demands of tax regulations",
+		"medical-and-healthcare.li.2": "Audit and assurance services",
+		"medical-and-healthcare.li.3": "Management information systems and the effective use of operating data",
+		"medical-and-healthcare.li.4": "Business trends and industry developments",
+		"medical-and-healthcare.li.5": "IT systems selection",
+		"medical-and-healthcare.li.6": "Business structuring and financing",
+
+		"public-sector.title": "Knowing Public Sector",
+		"public-sector.description": "Kreston has significant experience working with clients in central and local government,public health, education, public utilities and social housing - in all parts of the world.",
+		"public-sector.text": "Kreston has significant experience working with clients in central and local government, public health, education, public utilities and social housing - in all parts of the world.",
+		"public-sector.subtitle": "This experience goes far beyond external audits; our firms have a thorough understanding of the issues affecting all types of tax-funded organisation. We can assist with the following:",
+		"public-sector.li.1": "Value-for-money/best value auditing",
+		"public-sector.li.2": "Performance indicator reviews",
+		"public-sector.li.3": "Corporate governance and risk management reviews",
+		"public-sector.li.4": "Fraud irregularities and investigations",
+		"public-sector.li.5": "Complaints investigations and public hearings",
+
+		"sports.title": "Knowing Sports",
+		"sports.description": "Kreston knows sports. We have years of experience assisting sports bodies,clubs and professionals with their accounting requirements and ensuring that their financial affairs are dealt with in a tax-efficient and cost-effective way. Because when the details are taken care of, you`re free to perform at your best.",
+		"sports.text": "Kreston knows sports. We have years of experience assisting sports bodies, clubs and professionals with their accounting requirements and ensuring that their financial affairs are dealt with in a tax-efficient and cost-effective way. Because when the details are taken care of, you`re free to perform at your best.",
+		"sports.subtitle": "Our services include:",
+		"sports.li.1": "Drafting of financial statements",
+		"sports.li.2": "The use of image rights",
+		"sports.li.3": "Completing annual tax returns",
+		"sports.li.4": "Advising on tax structuring and tax-efficient profit extraction",
+		"sports.li.5": "Advising on tax-efficient investments and pension provision.",
+
+		"agriculture.title": "Knowing Agriculture",
+		"agriculture.description": "Market demands and global competition have led to more sophisticated working methods in the agricultural sector, with highly specialised crop and livestock farming becoming the norm. Kreston understands that farmers need to be more resilient and adapt quicker to change than ever before",
+		"agriculture.text": "Market demands and global competition have led to more sophisticated working methods in the agricultural sector, with highly specialised crop and livestock farming becoming the norm. Kreston understands that farmers need to be more resilient and adapt quicker to change than ever before. <br><br> We work with farming clients from all over the world, guiding them through the complex world of regulation. <br><br> From smallholdings to multisite estates and agricultural contractors, we ensure our clients receive constructive advice on compliance and regulatory issues as well as audit and assurance guidance. <br><br> And if environmental issues are your focus, we can share sound tax and commercial advice on all aspects of projects, such as renewable energy schemes and the use of surplus buildings.",
+
+		"energy-and-resources.title": "Knowing Energy and Resources",
+		"energy-and-resources.description": "Kreston can help you understand and navigate the challenges, and make sure you have the solutions you`ll need to capitalize on opportunities to unlock your potential for growth.",
+		"energy-and-resources.text": "Kreston can help you understand and navigate the challenges, and make sure you have the solutions you`ll need to capitalize on opportunities to unlock your potential for growth. <br><br> We have experience team advising companies across the full breadth of the energy and resources extraction through to developing the latest clean technologies. Our global network means we can support you as you expand your business and provide on the ground expertise and insight. <br><br> Whether you are looking to raise finance, improve M&A post deal integration, model extraction revenues or benchmark key engineers pay, we have experienced team able to work for the duration of the project lifecycle, and beyond.",
+
+		"sector-menu": "Sector Menu"
+	},
+
+	"global-presence": {
+		"title": "Global Presence",
+		"text": "Kreston Mozambique is a leading provider of accountancy and professional services, located in Maputo, Mozambique.<br><br> <b>Kreston Mozambique</b> gives your business global coverage because it is part of the <u><a href=\"https://www.kreston.com/\" target=\"blank\"><b>Kreston International</b></a></u> network. This means you have access to the knowledge and skills of our trusted counterparts in over 110 countries, in addition to the support of people who you know close to home. Wherever in the world your ambition takes you, our combination of expertise and empathy will help your business to meet the demands of the future.<br><br> <b>Kreston Mozambique</b> and <b>Kreston International</b> are both members of the Forum of firms, an association of international networks of accounting firms that perform transnational audits. The Forum of Firms promotes consistent and high-quality standards of financial reporting and auditing practice."
+	},
+
+	"careers": {
+		"title": "Careers",
+		"subtitle": "Sign up today for updates direct to your inbox.",
+		"firstname": {
+			"placeholder": "First name"
+		},
+		"lastname": {
+			"placeholder": "Last name"
+		},
+		"email": {
+			"placeholder": "Email"
+		},
+		"available-careers": "Available Careers",
+		"terms": "I consent to Kreston Mozambique using the information provided in this form to communicate with me about their careers, and the storing and processing of my data in accordance with their Privacy Policy.",
+		"drag": "Drag your files here or click in this area. (Qualifications/Certificates)",
+		"allowed-files": "<strong class=\"text-info\">Allowed files types:</strong> pdf, docx, png, jpeg, jpg.<br><strong class=\"text-info\">Max file size:</strong> 10MB.<br><strong class=\"text-info\">Max files:</strong> 10.",
+		"submit": "Submit"
+	},
+
+	"contact-us": {
+		"title": "Kreston Mozambique",
+		"phone": "Phone",
+		"email": "E-Mail",
+		"address": "Address"
+	}
+}
