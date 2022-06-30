@@ -1,6 +1,6 @@
 {
-    "name": "Simple - Sort Strategy Application",
-    "description": "Sorting application using simple framework.",
+    "name": "simple/strategy",
+    "description": "Sorting application uing simple framework.",
     "license": "MIT",
     "autoload": {
         "classmap": [
