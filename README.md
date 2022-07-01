@@ -26,8 +26,6 @@ Here are some example on how to run simple framework after installing it is as e
 <span style="color: yellow;">php</span> <span style="color: cornflowerblue">simple</span>
 </pre>
 
-<br>
-
 #### Advance example
 
 host="name of host" port="port to start server from"
