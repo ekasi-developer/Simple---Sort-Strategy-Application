@@ -130,7 +130,7 @@ class Application implements ApplicationInterface
      */
     protected function helpers(): void
     {
-        require_once static::$directory . "\\vendor\\Simple\\helpers.php";
+        require_once __DIR__ . '/helpers.php';
     }
 
     /**
