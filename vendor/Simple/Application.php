@@ -153,7 +153,8 @@ class Application implements ApplicationInterface
      */
     protected function loadRoutes(): void
     {
-        if (! file_exists($routes = static::$directory . "\\Application\\Routes\\web.php"))
+        if (! file_exists($routes = static::$directory . "/Application/Routes/web.php"))
+        if (! file_exists($routes = static::$directory . "/Application/Routes/web.php"))
             throw new Exception("Error the routes file does not exists in : {$routes}");
 
         require_once $routes;
