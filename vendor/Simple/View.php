@@ -109,8 +109,8 @@ class View extends HandleRequest implements ViewInterface
     protected function getViewFramework(bool $fullPath = true): string
     {
         return $fullPath ?
-            "{$this->directory()}\\vendor\\Simple\\Views\\{$this->view}.blade.php" :
-            "vendor\\Simple\\Views\\{$this->view}";
+            "{$this->directory()}/vendor/Simple/Views/{$this->view}.blade.php" :
+            "vendor/Simple/Views/{$this->view}";
     }
 
     /**
@@ -123,8 +123,8 @@ class View extends HandleRequest implements ViewInterface
     protected function getViewApplication(bool $fullPath = true): string
     {
         return $fullPath ?
-            "{$this->directory()}\\Application\\Views\\{$this->view}.blade.php" :
-            "Application\\Views\\{$this->view}";
+            "{$this->directory()}/Application/Views/{$this->view}.blade.php" :
+            "Application/Views/{$this->view}";
     }
 
     /**
