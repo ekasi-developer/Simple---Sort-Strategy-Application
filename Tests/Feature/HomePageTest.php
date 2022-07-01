@@ -2,7 +2,7 @@
 
 use Tests\TestCase;
 
-class _HomePageTest extends TestCase
+class HomePageTest extends TestCase
 {
     protected function setUp(): void
     {
