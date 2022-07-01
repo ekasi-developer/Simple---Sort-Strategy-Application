@@ -90,9 +90,9 @@ class Router implements RouterInterface
      */
     protected function getControllerNamespace(string $controller): string
     {
-        $namespace = "Application\\Controllers\\{$controller}";
+        $namespace = "Application/Controllers/{$controller}";
 
-        if (! file_exists("{$this->directory}\\{$namespace}.php"))
+        if (! file_exists("{$this->directory}/{$namespace}.php"))
             throw new Exception("The {$controller} controller does not exists.");
 
         return "Application\\Controllers\\{$controller}";
